@@ -1,0 +1,128 @@
+[30-Mar-2009 21:13:22] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/corpusv1/public_html/crisys/CI/system/application/views/home.php on line 73
+[31-Mar-2009 21:42:49] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/corpusv1/public_html/crisys/CI/system/application/controllers/admincheck.php on line 30
+[31-Mar-2009 21:43:47] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/corpusv1/public_html/crisys/CI/system/application/controllers/admincheck.php on line 30
+[31-Mar-2009 21:43:52] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/corpusv1/public_html/crisys/CI/system/application/controllers/admincheck.php on line 30
+[31-Mar-2009 22:51:57] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/corpusv1/public_html/crisys/CI/system/application/views/admin.php on line 81
+[31-Mar-2009 22:54:15] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/corpusv1/public_html/crisys/CI/system/application/controllers/admincheck.php on line 32
+[31-Mar-2009 22:55:49] PHP Fatal error:  Call to a member function result() on a non-object in /home/corpusv1/public_html/crisys/CI/system/application/views/admin.php on line 81
+[01-Apr-2009 18:48:29] PHP Parse error:  syntax error, unexpected T_BREAK in /home/corpusv1/public_html/crisys/CI/system/application/views/home.php on line 70
+[01-Apr-2009 18:51:00] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/corpusv1/public_html/crisys/CI/system/application/views/home.php on line 65
+[01-Apr-2009 18:53:45] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/corpusv1/public_html/crisys/CI/system/application/views/home.php on line 65
+[01-Apr-2009 18:53:50] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/corpusv1/public_html/crisys/CI/system/application/views/home.php on line 65
+[01-Apr-2009 18:54:05] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/corpusv1/public_html/crisys/CI/system/application/views/home.php on line 65
+[01-Apr-2009 18:54:37] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/corpusv1/public_html/crisys/CI/system/application/views/home.php on line 65
+[01-Apr-2009 18:55:01] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/corpusv1/public_html/crisys/CI/system/application/views/home.php on line 65
+[01-Apr-2009 18:55:05] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/corpusv1/public_html/crisys/CI/system/application/views/home.php on line 65
+[01-Apr-2009 19:50:51] PHP Fatal error:  Call to a member function result() on a non-object in /home/corpusv1/public_html/crisys/CI/system/application/views/permissions.php on line 16
+[01-Apr-2009 19:51:34] PHP Fatal error:  Call to a member function attribute() on a non-object in /home/corpusv1/public_html/crisys/CI/system/application/views/permissions.php on line 16
+[01-Apr-2009 19:56:39] PHP Fatal error:  Call to a member function result() on a non-object in /home/corpusv1/public_html/crisys/CI/system/application/views/permissions.php on line 20
+[01-Apr-2009 19:58:50] PHP Fatal error:  Call to a member function field_names() on a non-object in /home/corpusv1/public_html/crisys/CI/system/application/views/permissions.php on line 20
+[01-Apr-2009 20:13:53] PHP Parse error:  syntax error, unexpected T_ENDFOREACH in /home/corpusv1/public_html/crisys/CI/system/application/views/permissions.php on line 23
+[01-Apr-2009 20:14:29] PHP Parse error:  syntax error, unexpected T_ENDFOREACH in /home/corpusv1/public_html/crisys/CI/system/application/views/permissions.php on line 23
+[01-Apr-2009 20:23:28] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/corpusv1/public_html/crisys/CI/system/application/views/permissions.php on line 15
+[01-Apr-2009 20:28:54] PHP Fatal error:  Cannot use object of type stdClass as array in /home/corpusv1/public_html/crisys/CI/system/application/views/permissions.php on line 18
+[01-Apr-2009 21:21:43] PHP Fatal error:  Cannot use object of type CI_DB_mysql_result as array in /home/corpusv1/public_html/crisys/CI/system/application/views/permissions.php on line 20
+[01-Apr-2009 21:22:49] PHP Fatal error:  Function name must be a string in /home/corpusv1/public_html/crisys/CI/system/application/views/permissions.php on line 20
+[01-Apr-2009 23:32:48] PHP Fatal error:  Cannot use object of type stdClass as array in /home/corpusv1/public_html/crisys/CI/system/application/views/browsepatients.php on line 73
+[01-Apr-2009 23:38:38] PHP Fatal error:  Cannot use object of type stdClass as array in /home/corpusv1/public_html/crisys/CI/system/application/views/browsepatients.php on line 73
+[02-Apr-2009 08:51:48] PHP Parse error:  syntax error, unexpected T_ENDFOREACH in /home/corpusv1/public_html/crisys/CI/system/application/views/browsepatients.php on line 70
+[02-Apr-2009 08:52:15] PHP Fatal error:  Call to a member function result() on a non-object in /home/corpusv1/public_html/crisys/CI/system/application/views/browsepatients.php on line 66
+[04-Apr-2009 17:56:11] PHP Parse error:  syntax error, unexpected ')' in /home/corpusv1/public_html/crisys/CI/system/application/views/home.php on line 120
+[05-Apr-2009 21:01:58] PHP Parse error:  syntax error, unexpected T_ENDFOREACH in /home/corpusv1/public_html/crisys/CI/system/application/views/permissions.php on line 21
+[05-Apr-2009 21:02:34] PHP Parse error:  syntax error, unexpected T_ENDFOREACH in /home/corpusv1/public_html/crisys/CI/system/application/views/permissions.php on line 21
+[05-Apr-2009 21:03:54] PHP Parse error:  syntax error, unexpected T_ENDFOREACH in /home/corpusv1/public_html/crisys/CI/system/application/views/permissions.php on line 21
+[05-Apr-2009 21:05:56] PHP Parse error:  syntax error, unexpected '}' in /home/corpusv1/public_html/crisys/CI/system/application/views/permissions.php on line 34
+[07-Apr-2009 16:11:50] PHP Parse error:  syntax error, unexpected '<' in /home/corpusv1/public_html/crisys/CI/system/application/views/permissions.php on line 221
+[07-Apr-2009 16:13:07] PHP Parse error:  syntax error, unexpected '}' in /home/corpusv1/public_html/crisys/CI/system/application/views/permissions.php on line 221
+[07-Apr-2009 19:33:28] PHP Parse error:  syntax error, unexpected $end in /home/corpusv1/public_html/crisys/CI/system/application/controllers/additem.php on line 32
+[07-Apr-2009 19:57:24] PHP Parse error:  syntax error, unexpected '<' in /home/corpusv1/public_html/crisys/CI/system/application/views/EHRsearchresults.php on line 76
+[07-Apr-2009 19:58:24] PHP Parse error:  syntax error, unexpected $end in /home/corpusv1/public_html/crisys/CI/system/application/views/EHRsearchresults.php on line 98
+[07-Apr-2009 20:18:58] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/corpusv1/public_html/crisys/CI/system/application/controllers/EHRsearch.php on line 24
+[07-Apr-2009 21:22:55] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR, expecting ',' or ';' in /home/corpusv1/public_html/crisys/CI/system/application/views/patientsearchresults.php on line 76
+[07-Apr-2009 22:54:38] PHP Parse error:  syntax error, unexpected '<' in /home/corpusv1/public_html/crisys/CI/system/application/views/permissions.php on line 3
+[07-Apr-2009 22:55:02] PHP Parse error:  syntax error, unexpected '<' in /home/corpusv1/public_html/crisys/CI/system/application/views/permissions.php on line 3
+[08-Apr-2009 14:16:34] PHP Fatal error:  Call to a member function result() on a non-object in /home/corpusv1/public_html/crisys/CI/system/application/views/browseEHR.php on line 68
+[08-Apr-2009 14:50:52] PHP Parse error:  syntax error, unexpected '}' in /home/corpusv1/public_html/crisys/CI/system/application/views/displayEHR.php on line 69
+[08-Apr-2009 14:51:09] PHP Parse error:  syntax error, unexpected '}' in /home/corpusv1/public_html/crisys/CI/system/application/views/displayEHR.php on line 69
+[08-Apr-2009 15:13:32] PHP Fatal error:  Call to undefined method CI_DB_mysql_result::rowarray() in /home/corpusv1/public_html/crisys/CI/system/application/controllers/viewehr.php on line 20
+[08-Apr-2009 21:11:12] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/corpusv1/public_html/crisys/CI/system/application/controllers/removeprimary.php on line 18
+[08-Apr-2009 21:23:31] PHP Parse error:  syntax error, unexpected T_ENDFOREACH in /home/corpusv1/public_html/crisys/CI/system/application/views/manageprimaryclinician.php on line 106
+[09-Apr-2009 12:45:05] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/corpusv1/public_html/crisys/CI/system/application/controllers/manageEHR.php on line 84
+[09-Apr-2009 22:25:26] PHP Parse error:  syntax error, unexpected T_STRING in /home/corpusv1/public_html/crisys/CI/system/application/controllers/manageEHR.php on line 99
+[09-Apr-2009 22:28:10] PHP Fatal error:  Cannot use object of type CI_DB_mysql_result as array in /home/corpusv1/public_html/crisys/CI/system/application/controllers/manageEHR.php on line 110
+[09-Apr-2009 22:36:12] PHP Fatal error:  Cannot use object of type CI_DB_mysql_result as array in /home/corpusv1/public_html/crisys/CI/system/application/controllers/manageEHR.php on line 110
+[10-Apr-2009 09:42:38] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/corpusv1/public_html/crisys/CI/system/application/views/browseEHR.php on line 78
+[13-Apr-2009 18:44:31] PHP Fatal error:  Call to a member function result() on a non-object in /home/corpusv1/public_html/crisys/CI/system/application/views/viewlogs.php on line 64
+[13-Apr-2009 18:45:03] PHP Fatal error:  Call to a member function result() on a non-object in /home/corpusv1/public_html/crisys/CI/system/application/views/viewlogs.php on line 64
+[13-Apr-2009 18:45:09] PHP Fatal error:  Call to a member function result() on a non-object in /home/corpusv1/public_html/crisys/CI/system/application/views/viewlogs.php on line 64
+[13-Apr-2009 18:49:11] PHP Fatal error:  Call to a member function results() on a non-object in /home/corpusv1/public_html/crisys/CI/system/application/views/viewlogs.php on line 64
+[13-Apr-2009 18:51:07] PHP Fatal error:  Call to a member function result() on a non-object in /home/corpusv1/public_html/crisys/CI/system/application/views/viewlogs.php on line 64
+[14-Apr-2009 21:56:45] PHP Fatal error:  Call to undefined method CI_DB_mysql_result::results() in /home/corpusv1/public_html/crisys/CI/system/application/controllers/manageitems.php on line 44
+[14-Apr-2009 22:29:01] PHP Fatal error:  Call to a member function result() on a non-object in /home/corpusv1/public_html/crisys/CI/system/application/views/concealoptions.php on line 42
+[16-Apr-2009 21:07:48] PHP Parse error:  syntax error, unexpected ')' in /home/corpusv1/public_html/crisys/CI/system/application/controllers/login.php on line 20
+[20-Apr-2009 21:27:31] PHP Parse error:  syntax error, unexpected $end in /home/corpusv1/public_html/crisys/CI/system/application/views/concealoptions.php on line 101
+[20-Apr-2009 21:28:34] PHP Parse error:  syntax error, unexpected $end in /home/corpusv1/public_html/crisys/CI/system/application/views/concealoptions.php on line 101
+[20-Apr-2009 21:33:38] PHP Fatal error:  Call to undefined method CI_DB_mysql_result::results() in /home/corpusv1/public_html/crisys/CI/system/application/views/concealoptions.php on line 78
+[20-Apr-2009 21:35:08] PHP Fatal error:  Call to undefined method CI_DB_mysql_result::results() in /home/corpusv1/public_html/crisys/CI/system/application/views/concealoptions.php on line 78
+[20-Apr-2009 22:13:46] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/corpusv1/public_html/crisys/CI/system/application/controllers/managecomcealments.php on line 31
+[21-Apr-2009 10:23:35] PHP Fatal error:  Call to a member function result() on a non-object in /home/corpusv1/public_html/crisys/CI/system/application/controllers/managecomcealments.php on line 75
+[21-Apr-2009 10:23:53] PHP Fatal error:  Call to a member function result() on a non-object in /home/corpusv1/public_html/crisys/CI/system/application/controllers/managecomcealments.php on line 75
+[21-Apr-2009 21:27:55] PHP Fatal error:  Call to a member function result() on a non-object in /home/corpusv1/public_html/crisys/CI/system/application/controllers/managecomcealments.php on line 75
+[21-Apr-2009 22:10:19] PHP Parse error:  syntax error, unexpected '}' in /home/corpusv1/public_html/crisys/CI/system/application/controllers/manageitems.php on line 204
+[21-Apr-2009 22:12:05] PHP Parse error:  syntax error, unexpected '}' in /home/corpusv1/public_html/crisys/CI/system/application/controllers/manageitems.php on line 204
+[21-Apr-2009 22:13:22] PHP Parse error:  syntax error, unexpected T_ELSE, expecting T_FUNCTION in /home/corpusv1/public_html/crisys/CI/system/application/controllers/manageitems.php on line 149
+[21-Apr-2009 22:15:14] PHP Parse error:  syntax error, unexpected '}' in /home/corpusv1/public_html/crisys/CI/system/application/controllers/manageitems.php on line 204
+[21-Apr-2009 22:15:18] PHP Parse error:  syntax error, unexpected '}' in /home/corpusv1/public_html/crisys/CI/system/application/controllers/manageitems.php on line 204
+[21-Apr-2009 22:17:00] PHP Parse error:  syntax error, unexpected '}' in /home/corpusv1/public_html/crisys/CI/system/application/controllers/manageitems.php on line 204
+[21-Apr-2009 22:17:40] PHP Parse error:  syntax error, unexpected '}' in /home/corpusv1/public_html/crisys/CI/system/application/controllers/manageitems.php on line 200
+[21-Apr-2009 22:18:10] PHP Parse error:  syntax error, unexpected '}' in /home/corpusv1/public_html/crisys/CI/system/application/controllers/manageitems.php on line 204
+[21-Apr-2009 22:29:18] PHP Parse error:  syntax error, unexpected ')' in /home/corpusv1/public_html/crisys/CI/system/application/controllers/manageEHR.php on line 70
+[21-Apr-2009 22:34:24] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/corpusv1/public_html/crisys/CI/system/application/controllers/manageitems.php on line 139
+[21-Apr-2009 23:19:09] PHP Fatal error:  Method name must be a string in /home/corpusv1/public_html/crisys/CI/system/application/views/managecomcealments.php on line 86
+[22-Apr-2009 19:14:16] PHP Parse error:  syntax error, unexpected T_STRING in /home/corpusv1/public_html/crisys/CI/system/application/controllers/managereferrals.php on line 39
+[22-Apr-2009 20:15:22] PHP Fatal error:  Call to a member function submit_to_remote() on a non-object in /home/corpusv1/public_html/crisys/CI/system/application/views/referraloptions.php on line 77
+[22-Apr-2009 20:16:00] PHP Fatal error:  Call to a member function submit_to_remote() on a non-object in /home/corpusv1/public_html/crisys/CI/system/application/views/referraloptions.php on line 77
+[22-Apr-2009 20:16:50] PHP Fatal error:  Call to a member function submit_to_remote() on a non-object in /home/corpusv1/public_html/crisys/CI/system/application/views/referraloptions.php on line 82
+[22-Apr-2009 20:18:36] PHP Fatal error:  Call to a member function submit_to_remote() on a non-object in /home/corpusv1/public_html/crisys/CI/system/application/views/referraloptions.php on line 104
+[22-Apr-2009 20:49:05] PHP Fatal error:  Call to a member function submit_to_remote() on a non-object in /home/corpusv1/public_html/crisys/CI/system/application/views/referraloptions.php on line 92
+[22-Apr-2009 21:04:06] PHP Fatal error:  Call to undefined function  site_url() in /home/corpusv1/public_html/crisys/CI/system/application/views/referraloptions.php on line 92
+[22-Apr-2009 22:56:06] PHP Fatal error:  Call to a member function result() on a non-object in /home/corpusv1/public_html/crisys/CI/system/application/views/managereferrals.php on line 78
+[22-Apr-2009 23:58:36] PHP Parse error:  syntax error, unexpected '}' in /home/corpusv1/public_html/crisys/CI/system/application/views/concealoptions.php on line 86
+[23-Apr-2009 23:25:27] PHP Fatal error:  Call to a member function result() on a non-object in /home/corpusv1/public_html/crisys/CI/system/application/views/EHRsearchresults.php on line 69
+[23-Apr-2009 23:30:24] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/corpusv1/public_html/crisys/CI/system/application/views/manageprimaryclinician.php on line 172
+[23-Apr-2009 23:30:27] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/corpusv1/public_html/crisys/CI/system/application/views/manageprimaryclinician.php on line 172
+[23-Apr-2009 23:30:47] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/corpusv1/public_html/crisys/CI/system/application/views/manageprimaryclinician.php on line 172
+[24-Apr-2009 12:52:14] PHP Parse error:  syntax error, unexpected '.', expecting T_STRING or T_VARIABLE or '{' or '$' in /home/corpusv1/public_html/crisys/CI/system/application/controllers/manageitems.php on line 45
+[24-Apr-2009 12:52:48] PHP Parse error:  syntax error, unexpected T_ELSE in /home/corpusv1/public_html/crisys/CI/system/application/controllers/manageitems.php on line 51
+[24-Apr-2009 13:09:41] PHP Parse error:  syntax error, unexpected T_ELSE in /home/corpusv1/public_html/crisys/CI/system/application/controllers/manageitems.php on line 44
+[24-Apr-2009 15:31:54] PHP Parse error:  syntax error, unexpected '<' in /home/corpusv1/public_html/crisys/CI/system/application/views/permissions.php on line 262
+[24-Apr-2009 15:32:00] PHP Parse error:  syntax error, unexpected '<' in /home/corpusv1/public_html/crisys/CI/system/application/views/permissions.php on line 262
+[24-Apr-2009 15:52:22] PHP Parse error:  syntax error, unexpected T_ELSE in /home/corpusv1/public_html/crisys/CI/system/application/views/manageagents.php on line 75
+[24-Apr-2009 15:52:49] PHP Parse error:  syntax error, unexpected T_ELSE in /home/corpusv1/public_html/crisys/CI/system/application/views/manageagents.php on line 75
+[25-Apr-2009 23:26:34] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/corpusv1/public_html/crisys/CI/system/application/controllers/manageagents.php on line 31
+[25-Apr-2009 23:29:46] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/corpusv1/public_html/crisys/CI/system/application/controllers/manageagents.php on line 31
+[25-Apr-2009 23:30:22] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/corpusv1/public_html/crisys/CI/system/application/controllers/manageagents.php on line 31
+[25-Apr-2009 23:38:02] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/corpusv1/public_html/crisys/CI/system/application/controllers/manageagents.php on line 31
+[25-Apr-2009 23:38:59] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/corpusv1/public_html/crisys/CI/system/application/controllers/manageagents.php on line 31
+[25-Apr-2009 23:47:55] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/corpusv1/public_html/crisys/CI/system/application/controllers/manageagents.php on line 44
+[26-Apr-2009 13:57:08] PHP Fatal error:  Call to a member function result() on a non-object in /home/corpusv1/public_html/crisys/CI/system/application/views/sponsoredpatientinfo.php on line 78
+[26-Apr-2009 22:26:50] PHP Fatal error:  Call to a member function result() on a non-object in /home/corpusv1/public_html/crisys/CI/system/application/controllers/manageagents.php on line 44
+[26-Apr-2009 22:26:54] PHP Fatal error:  Call to a member function result() on a non-object in /home/corpusv1/public_html/crisys/CI/system/application/controllers/manageagents.php on line 44
+[26-Apr-2009 22:26:55] PHP Fatal error:  Call to a member function result() on a non-object in /home/corpusv1/public_html/crisys/CI/system/application/controllers/manageagents.php on line 44
+[26-Apr-2009 22:27:00] PHP Fatal error:  Call to a member function result() on a non-object in /home/corpusv1/public_html/crisys/CI/system/application/controllers/manageagents.php on line 44
+[26-Apr-2009 22:27:07] PHP Fatal error:  Call to a member function result() on a non-object in /home/corpusv1/public_html/crisys/CI/system/application/controllers/manageagents.php on line 44
+[26-Apr-2009 23:02:30] PHP Parse error:  syntax error, unexpected T_ELSE, expecting T_FUNCTION in /home/corpusv1/public_html/crisys/CI/system/application/controllers/manageitems.php on line 310
+[26-Apr-2009 23:28:33] PHP Parse error:  syntax error, unexpected '}' in /home/corpusv1/public_html/crisys/CI/system/application/views/sponsoredpatientinfo.php on line 83
+[27-Apr-2009 19:05:24] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_FUNCTION in /home/corpusv1/public_html/crisys/CI/system/application/controllers/manageagents.php on line 28
+[27-Apr-2009 20:58:53] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/corpusv1/public_html/crisys/CI/system/application/views/EHRsearchresults.php on line 81
+[27-Apr-2009 21:42:26] PHP Parse error:  syntax error, unexpected '<' in /home/corpusv1/public_html/crisys/CI/system/application/views/sponsoredpatientinfo.php on line 96
+[27-Apr-2009 22:14:56] PHP Parse error:  syntax error, unexpected '[' in /home/corpusv1/public_html/crisys/CI/system/application/controllers/manageagents.php on line 35
+[29-Apr-2009 18:26:30] PHP Parse error:  syntax error, unexpected '=' in /home/corpusv1/public_html/crisys/CI/system/application/controllers/manageEHR.php on line 106
+[29-Apr-2009 18:49:49] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR, expecting ',' or ';' in /home/corpusv1/public_html/crisys/CI/system/application/views/sponsoredpatientinfo.php on line 92
+[29-Apr-2009 20:15:04] PHP Parse error:  syntax error, unexpected T_ELSE in /home/corpusv1/public_html/crisys/CI/system/application/views/displayEHR.php on line 159
+[29-Apr-2009 20:25:52] PHP Fatal error:  Call to undefined method stdClass::result() in /home/corpusv1/public_html/crisys/CI/system/application/views/displayEHR.php on line 194
+[29-Apr-2009 21:26:49] PHP Parse error:  syntax error, unexpected T_IF in /home/corpusv1/public_html/crisys/CI/system/application/views/manageagents.php on line 120
+[29-Apr-2009 21:49:25] PHP Parse error:  syntax error, unexpected T_STRING, expecting ']' in /home/corpusv1/public_html/crisys/CI/system/application/controllers/managereferrals.php on line 181
+[30-Apr-2009 15:35:44] PHP Parse error:  syntax error, unexpected T_ELSE in /home/corpusv1/public_html/crisys/CI/system/application/controllers/manageitems.php on line 56
+[30-Apr-2009 15:37:22] PHP Parse error:  syntax error, unexpected T_ELSE, expecting T_FUNCTION in /home/corpusv1/public_html/crisys/CI/system/application/controllers/manageitems.php on line 114
+[30-Apr-2009 16:39:17] PHP Parse error:  syntax error, unexpected '}' in /home/corpusv1/public_html/crisys/CI/system/application/views/manageagents.php on line 105

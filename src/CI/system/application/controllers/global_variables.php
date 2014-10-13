@@ -1,0 +1,10 @@
+<?
+
+$QUAL_OB = 1;
+$DIAGNOSIS = 2;
+$TREATMENT = 3;
+$COMMENT = 4;
+$QUAN_OB = 5;
+
+
+?>

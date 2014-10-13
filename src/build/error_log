@@ -1,0 +1,2 @@
+[01-Apr-2009 22:56:45] PHP Warning:  mysql_numrows(): supplied argument is not a valid MySQL result resource in /home/corpusv1/public_html/crisys/build/login.php on line 18
+[01-Apr-2009 22:56:45] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/corpusv1/public_html/crisys/build/login.php:18) in /home/corpusv1/public_html/crisys/build/login.php on line 26
